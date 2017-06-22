@@ -10,6 +10,13 @@ TODO:
 
 ## Usage
 
+Run Chrome in headless mode:
+
+On Mac:
+```
+/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --headless --disable-gpu --remote-debugging-port=9222
+```
+
 ```
 git clone git@github.com:geecu/css-coverage.git
 cd css-coverage

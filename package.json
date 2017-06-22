@@ -9,9 +9,12 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "devDependencies": {
+    "jest": "^20.0.4",
     "nodemon": "1.4.1"
   }
 }

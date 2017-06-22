@@ -1,0 +1,17 @@
+{
+  "name": "css-coverage",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chrome-remote-interface": "^0.23.2"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

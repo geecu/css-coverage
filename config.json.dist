@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "url": "http://localhost:9000/",
+      "out": "style.css"
+    },
+    {
+      "url": "http://localhost:9000/second.html",
+      "out": "style.css"
+    }
+  ]
+}
